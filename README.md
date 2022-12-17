@@ -1,5 +1,5 @@
 ## Projects in Aboitiz
 
 Projects:
-1. Anti-money laundering using graph analytics
+1. Fraud detection using graph analytics
 
