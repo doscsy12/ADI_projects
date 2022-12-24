@@ -10,7 +10,7 @@ The use of graph analytics can complement traditional machine learning technique
 
 ### Methods
 **Data**
-<br> Data is transactional information from the bank (UBP) to other accounts within UBP, Gcash, paymaya and other unknown target banks from 1. Jan 2020 to 31. May 2021. Features used in this study are source name, target name, date of transaction, transaction amount, and label (fraud/not fraud).  
+<br> Data is transactional information from the bank (UBP) to other accounts within UBP, Gcash, paymaya and other unknown target banks from 1. Jan 2020 to 31. May 2021. Features used in this study are source account holder, target account holder, date of transaction, transaction amount, and label (fraud/not fraud).  
 
 **Levels of transactions**
 <br> We are interested in transactions up to and including three degrees of connections.
