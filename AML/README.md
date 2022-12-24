@@ -8,6 +8,24 @@ The use of graph analytics can complement traditional machine learning technique
 **Aim**
 <br> Thus, the aim of this project is to explore application of network analytics and graph theory for fraud detection. 
 
+### Methods
+**Data**
+<br> Data is transactional information from the bank (UBP) to other accounts within UBP, Gcash, paymaya and other unknown target banks from 1. Jan 2020 to 31. May 2021. Features used in this study are source name, target name, date of transaction, transaction amount, and label (fraud/not fraud).  
+
+**Levels of transactions**
+We are interested in transactions up to and including three degrees of connections.
+Level 1 – first degree connections
+Since the dataset is huge, the focus at this level is transactions to paymaya or within UBP. 
+
+Level 2 – second degree connections
+We wanted to examine connections up to and including the second degree outside of the UBP network, ie., transaction is first performed within UBP (first degree), and then transaction is performed to an account outside of UBP (second degree). To prevent the graph from increasing exponentially, the second transaction, performed by the second degree of connection has to be performed by the next day. For example, if the first transaction was performed on the 3rd March, the second transaction has to be performed by the 4th March.
+
+Level 3 – third degree connections
+We wanted to examine connections up to and including the third degree outside of the UBP network, ie., transaction is first performed within UBP (first degree). Then, that target account performed a transaction to another account within UBP (second degree), and further on to an account outside of UBP (third degree). To prevent the graph from increasing exponentially, the next transaction, performed by the second/third degree of connection has to be performed by the next day. For example, if the first transaction was performed on the 3rd March, the second transaction has to be performed by the 4th March, and the third transaction has to be performed by the 5th March. 
+
+**Centrality measures** 
+Five centrality measures are employed to represent the relative location and importance of an account. They are degree centrality, betweenness centrality, closeness centrality, eigenvector centrality and pagerank.
+
 
 
 |   | notebook                      | description                    |
