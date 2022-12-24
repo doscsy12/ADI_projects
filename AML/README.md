@@ -13,4 +13,4 @@ The use of graph analytics can complement traditional machine learning technique
 |   | notebook                      | description                    |
 |---|-------------------------------|--------------------------------|
 | 1 | [extract_levels](https://github.com/doscsy12/ADI_projects/blob/main/AML/extract_levels.ipynb) | extracting levels of transactions |
-| 2 | [EDA level 2](https://github.com/doscsy12/ADI_projects/blob/main/AML/EDA_level_2.ipynb)| EDA of transactions at 2nd degree of connection |
+| 2 | [EDA_level_2](https://github.com/doscsy12/ADI_projects/blob/main/AML/EDA_level_2.ipynb)| EDA of transactions at 2nd degree of connection |
