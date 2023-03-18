@@ -14,5 +14,5 @@ Nonetheless, we believe that XAI can be relevant to ensure that the AI models ar
 
 |   | file                          | description                    |
 |---|-------------------------------|--------------------------------|
-|---|[XAI guidelines ](https://github.com/doscsy12/ADI_projects/blob/main/XAI/XRAI%20Guidelines%20Document%20v2.pdf)  |--------------------------------|
+|1. |[XAI guidelines ](https://github.com/doscsy12/ADI_projects/blob/main/XAI/XRAI%20Guidelines%20Document%20v2.pdf)  | Guidelines version 2 |
 
