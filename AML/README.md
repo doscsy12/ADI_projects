@@ -30,8 +30,8 @@ Level 3 – third degree connections
 
 |   | notebook                      | description                    |
 |---|-------------------------------|--------------------------------|
-| 1 | [extract_levels](https://github.com/doscsy12/ADI_projects/blob/main/AML/extract_levels.ipynb) | extracting levels of transactions |
-| 2 | [EDA_level_1_subset](https://github.com/doscsy12/ADI_projects/blob/main/AML/EDA_level_1_subset.ipynb)| EDA of a subset of transactions within 1st degree of connection |
+| 1 | --  | extracting levels of transactions |
+| 2 | --  | EDA of a subset of transactions within 1st degree of connection |
 | 2 | [EDA_level_2](https://github.com/doscsy12/ADI_projects/blob/main/AML/EDA_level_2.ipynb)| EDA of transactions at 2nd degree of connection |
 | 2 | [EDA_level_3](https://github.com/doscsy12/ADI_projects/blob/main/AML/EDA_level_3.ipynb)| EDA of transactions at 3rd degree of connection |
 
