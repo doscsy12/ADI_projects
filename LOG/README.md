@@ -11,5 +11,5 @@ The aim is to develop an algorithm to optimize routes in a multi-stop booking re
 |   | notebook                      | description                    |
 |---|-------------------------------|--------------------------------|
 |1. |[EDA](https://github.com/doscsy12/ADI_projects/blob/main/LOG/EDA_log.ipynb)  | pilot test for route optimisation |
-2. |[CVRPTW](https://github.com/doscsy12/ADI_projects/blob/main/LOG/CVRPTW.ipynb)  | process for route optimisation |
+|2. |[CVRPTW](https://github.com/doscsy12/ADI_projects/blob/main/LOG/CVRPTW.ipynb)  | process for route optimisation |
 
