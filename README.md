@@ -6,3 +6,4 @@ Projects:
 3. Explainable artificial intelligence (XAI)
 4. Synthetic data generation (SYN)
 5. Blue economy (BLUE)
+
