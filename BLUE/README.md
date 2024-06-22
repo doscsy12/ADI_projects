@@ -8,9 +8,12 @@ Data science will play a pivotal role in advancing Blue Economy initiatives by l
 ### Aim 
 First, it is important to be able to identify and develop Blue Economy use cases as a fundamental aspect of promoting sustainable development and economic growth in coastal regions and beyond. The aim is to identify opportunities where the utilization of marine resources and ecosystems can lead to economic benefits while also ensuring the long-term health and resilience of marine environments. This will involve identifying sectors such as fisheries, aquaculture, renewable energy, tourism, transportation, and biotechnology, where sustainable practices can be implemented to generate economic value without degrading marine ecosystems. 
 
+### Whitepaper
+Our whitepaper, unveiled at the Asian Development Bank (ADB) Asia Clean Energy Forum 2024, highlights the Top 10 Future Blue Industries, and identifies 5 use cases which details specific Southeast Asian projects that can be applied to islands worldwide. 
+
 
 
 |   | file                          | description                    |
 |---|-------------------------------|--------------------------------|
-|1. | Blue economy | Blue economy |
+|1. | https://insights.aboitizdatainnovation.com/future-blue-economies-white-paper | Whitepaper |
 |2. | Use case #1 | Use case #1 |
