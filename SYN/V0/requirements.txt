@@ -1,0 +1,8 @@
+pandas == 2.2.2
+seaborn == 0.13.2
+networkx == 3.3
+scipy == 1.14.0
+sdv == 1.14.0
+category_encoders == 2.6.3
+torch == 2.3.1
+openpyxl == 3.1.5
