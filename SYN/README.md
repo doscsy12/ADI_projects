@@ -14,4 +14,4 @@ A systematic literature review was conducted to examine existing research on syn
 |---|-------------------------------|--------------------------------|
 |1. | Algorithm development | Algorithm development |
 |2. | Article [link added later] | Accepted article in WITS2024 |
-|3. | [Podcast on paper](https://github.com/doscsy12/ADI_projects/tree/main/SYN)  | Podcast created by NotebookLM |
+|3. | [Podcast on paper](https://github.com/doscsy12/ADI_projects/blob/main/SYN/audio_file/WITS2024_synthetic_data_NotebookLM_podcast.wav)  | Podcast created by NotebookLM |
