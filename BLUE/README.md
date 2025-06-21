@@ -15,6 +15,6 @@ Our whitepaper, unveiled at the Asian Development Bank (ADB) Asia Clean Energy F
 
 |   | file                          | description                    |
 |---|-------------------------------|--------------------------------|
-|1. | [Future Blue Economies link](https://insights.aboitizdatainnovation.com/future-blue-economies-white-paper) | Whitepaper |
+|1. | [Future Blue Economies link](https://22527143.fs1.hubspotusercontent-na1.net/hubfs/22527143/White%20Paper-%20Future%20Blue%20Economies%20June%202024.pdf?ref=insights.adi.tech) | Whitepaper |
 |2. | Proposal | Proposal |
 |3. | Use case #1 | Use case #1 |
