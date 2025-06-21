@@ -13,5 +13,5 @@ A systematic literature review was conducted to examine existing research on syn
 |   | file                          | description                    |
 |---|-------------------------------|--------------------------------|
 |1. | Algorithm development | Algorithm development |
-|2. | [Article](https://arxiv.org/abs/2412.14730) | Accepted article in WITS2024 |
+|2. | [Article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5183254) | Accepted article in WITS2024 |
 |3. | [Podcast on paper](https://soundcloud.com/sook-yee-chong/synthetic-data-notebooklm-podcast?si=0493373339ec4376ba707f8afa29e789&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)  | Podcast created by NotebookLM |
