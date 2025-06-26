@@ -22,4 +22,4 @@ This topic is important because financial data often exhibits complex temporal p
 |2. | [Article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5183254) | Accepted article in WITS2024 |
 |3. | [Podcast on paper](https://soundcloud.com/sook-yee-chong/synthetic-data-notebooklm-podcast?si=0493373339ec4376ba707f8afa29e789&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)  | Podcast created by NotebookLM |
 |4. | [Friday Hacks](https://www.youtube.com/watch?v=Q2ct1z-e5pM)  | Talk to NUS students |
-|5. | Temporal Graph algorithm | Algorithm development  |
+|5. | Temporal Graph algorithm | Algorithm development |
