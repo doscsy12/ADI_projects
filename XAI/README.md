@@ -25,3 +25,4 @@ The impact of explainable artificial intelligence (XAI) on the adoption of AI mo
 |   | file                          | description                    |
 |---|-------------------------------|--------------------------------|
 |1. |[EDA] | EDA |
+|2. |[paper] | Paper on tailored XAI |
