@@ -7,5 +7,5 @@ Projects:
 4. Synthetic data generation (SYN)
 5. Blue economy (BLUE)
 6. Pilot projects (PILOT) 
-- Banknote authentication 
+	- Banknote authentication 
 
