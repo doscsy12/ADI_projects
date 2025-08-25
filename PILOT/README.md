@@ -13,6 +13,6 @@ Aim is to develop a reliable and accurate system for authenticating banknotes us
 
 |   | notebook                      | description                    |
 |---|-------------------------------|--------------------------------|
-|1. |[--]()  | -- |
-|2. |[--]()  | -- |
+|1. |[https://github.com/doscsy12/ADI_projects/blob/main/PILOT/VGG16_model.ipynb](VGG16)  | -- |
+|2. |[https://github.com/doscsy12/ADI_projects/blob/main/PILOT/Resnet50_model.ipynb](Resnet50)  | -- |
 
