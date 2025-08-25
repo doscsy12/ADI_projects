@@ -9,8 +9,8 @@ Despite the rise of digital payments, cash is still widely used in many Asian co
 
 ### Aim
 Aim is to:
-(1) develop a reliable and accurate system for authenticating banknotes using ML techniques, with the objective of detecting counterfeit currency by analyzing key features such as texture, variance, skewness, and image-based properties.
-(2) ensure explainability of the authentication process, allowing stakeholders to understand which features contribute most to the decision-making.
+<br> (1) develop a reliable and accurate system for authenticating banknotes using ML techniques, with the objective of detecting counterfeit currency by analyzing key features such as texture, variance, skewness, and image-based properties.
+<br> (2) ensure explainability of the authentication process, allowing stakeholders to understand which features contribute most to the decision-making.
 
 
 |   | notebook                      | description                    |
