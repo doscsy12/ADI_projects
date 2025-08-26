@@ -15,8 +15,9 @@ Aim is to:
 
 |   | notebook                      | description                    |
 |---|-------------------------------|--------------------------------|
-|1. |[VGG16](https://github.com/doscsy12/ADI_projects/blob/main/PILOT/VGG16_model.ipynb) | VGG16 model |
-|2. |[Resnet50](https://github.com/doscsy12/ADI_projects/blob/main/PILOT/Resnet50_model.ipynb) | Resnet50 model |
-|3. |[..](..)  | Xception model |
-|4. |[..](..)  | InceptionV3 model |
+|1. |[EDA](https://github.com/doscsy12/ADI_projects/blob/main/PILOT/EDA.ipynb) | EDA | 
+|2. |[VGG16](https://github.com/doscsy12/ADI_projects/blob/main/PILOT/VGG16_model.ipynb) | VGG16 model |
+|3. |[Resnet50](https://github.com/doscsy12/ADI_projects/blob/main/PILOT/Resnet50_model.ipynb) | Resnet50 model |
+|4. |[..](..)  | Xception model |
+|5. |[..](..)  | InceptionV3 model |
 
