@@ -24,7 +24,7 @@ Aim is to:
 ## Enhancing Voice Banking Interfaces with Pitch Recognition
 
 ### Background
-As banks increasingly adopt voice-driven platforms (such as Alexa, Siri integrations), delivering a natural and reliable user experience is critical. In multilingual markets like the Philippines and Southeast Asia, tonal and intonation-rich languages present unique challenges for speech recognition. Pitch patterns play a key role in distinguishing questions, commands, and confirmations, making interactions more accurate and user-friendly.
+As banks increasingly adopt voice-driven platforms (such as Alexa, Siri integrations), delivering a natural and reliable user experience is critical. In multilingual markets like the Philippines and Southeast Asia, tonal and intonation-rich languages present unique challenges for speech recognition. Pitch patterns play a key role in distinguishing questions, statements, and confirmations, making interactions more accurate and user-friendly.
 
 ### Aim
 This pilot project aims to explore the use of pitch recognition to improve the accuracy and usability of voice banking systems, focusing on better understanding and processing of multilingual and tonal speech for enhanced customer experience.
@@ -33,3 +33,4 @@ This pilot project aims to explore the use of pitch recognition to improve the a
 |---|-------------------------------|--------------------------------|
 |1. |[SVM]() | Feature extraction and SVM model |
 |2. |[..]()  | .. |
+
