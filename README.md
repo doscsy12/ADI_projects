@@ -8,4 +8,5 @@ Projects:
 5. Blue economy (BLUE)
 6. Pilot projects (PILOT) 
 	- Banknote authentication 
+	- Pitch recognition 
 
