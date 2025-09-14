@@ -32,5 +32,6 @@ This pilot project aims to explore the use of pitch recognition to improve the a
 |   | notebook                      | description                    |
 |---|-------------------------------|--------------------------------|
 |1. |[1st experiment](https://github.com/doscsy12/ADI_projects/blob/main/PILOT/pitch_recognition.ipynb) | Own feature extraction + LogReg and SVM models |
-|2. |[2nd experiment](https://github.com/doscsy12/ADI_projects/blob/main/PILOT/pitch_recognition-pt2.ipynb)  | Feature extraction from Praat spectral analysis + LogReg and SVM models |
+|2. |[2nd experiment](https://github.com/doscsy12/ADI_projects/blob/main/PILOT/pitch_recognition-pt2.ipynb)  | Feature extraction from Praat spectral analysis + LogReg and SVM models
+|3. |[3rd experiment](https://github.com/doscsy12/ADI_projects/blob/main/PILOT/pitch_recognition-pt3.ipynb)  | Train CNN to extract MFCC embeddings + LogReg and SVM models  |
 
